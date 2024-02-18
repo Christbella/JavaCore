@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 5:
- *  linkQueue.java
- *  demonstrates queue implemented as double-ended list
- *  to compile this code: javac linkQueue.java
- *  to run this program:  java LinkQueueApp
- */
+
 class Link {
     public long dData;                  // data item
     public Link next;                   // next link in list

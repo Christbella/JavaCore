@@ -1,10 +1,4 @@
 /**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 4:
- *  infixAL.java
- *  converts infix arithmetic expressions to postfix using LinkedList
- *  to compile this code: javac infixAL.java
- *  to run this program:  java InfixApp
  * Examples for testing:
  *  A+B*C       -> ABC*+
  *  (A+B)*C     -> AB+C*

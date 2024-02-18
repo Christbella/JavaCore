@@ -1,11 +1,3 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 2:
- *  array.java
- *  demonstrates Java arrays
- *  to compile this code: javac array.java
- *  to run this program: java arrayApp
- */
 class ArrayApp {
 
     public static void main(String[] args) {

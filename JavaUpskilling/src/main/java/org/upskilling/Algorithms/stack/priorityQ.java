@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 4:
- *  priorityQ.java
- *  demonstrates priority queue
- *  to compile this code: javac priorityQ.java
- *  to run this program:  java PriorityQApp
- */
+
 class PriorityQ {
     // array in sorted order, from max at 0 to min at size-1
     private int maxSize;

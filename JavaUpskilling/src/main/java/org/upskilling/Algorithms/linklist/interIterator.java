@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 5:
- *  interIterator.java
- *  demonstrates iterators on a linked list
- *  to compile this code: javac interIterator.java
- *  to run this program:  java InterIterApp
- */
+
 import java.io.*;                       // for I/O
 
 class Link {

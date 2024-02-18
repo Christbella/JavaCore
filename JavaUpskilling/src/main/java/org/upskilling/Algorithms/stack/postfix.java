@@ -1,10 +1,5 @@
 /**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 4:
- *  postfix.java
- *  parses postfix arithmetic expressions
- *  to compile this code: javac postfix.java
- *  to run this program:  java PostfixApp
+
  * Examples for testing:
  *  5+7             -> 57+          -> 12
  *  2+3*4           -> 234*+        -> 14

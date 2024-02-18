@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 2:
- *  lowArray.java
- *  demonstrates array class with low-level interface
- *  to compile this code: javac lowArray.java
- *  to run this program:  java LowArrayApp
- */
+
 class LowArray {
     private long[] a;                 // ref to array a
 //--------------------------------------------------------------

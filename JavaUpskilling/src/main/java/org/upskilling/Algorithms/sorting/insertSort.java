@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 3:
- *  insertSort.java
- *  demonstrates insertion sort
- *  to compile this code: javac insertSort.java
- *  to run this program:  java InsertSortApp
- */
+
 class ArrayIns {
     private long[] a;                 // ref to array a
     private int nElems;               // number of data items

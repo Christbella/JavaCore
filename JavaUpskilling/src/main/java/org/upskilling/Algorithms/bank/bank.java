@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 1:
- *  bank.java
- *  demonstrates basic OOP syntax
- *  to compile this code: javac bank.java
- *  to run this program:  java BankApp
- */
+
 class BankAccount {
     private double balance;                     // account balance
 

@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 6:
- *  triangle.java
- *  evaluates triangular numbers
- *  to compile this code: javac triangle.java
- *  to run this program:  java TriangleApp
- */
+
 import java.io.*;
 
 class TriangleApp {

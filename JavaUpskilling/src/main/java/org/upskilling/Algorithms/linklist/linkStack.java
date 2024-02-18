@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 5:
- *  linkStack.java
- *  demonstrates a stack implemented as a list
- *  to compile this code: javac linkStack.java
- *  to run this program:  java LinkStackApp
- */
+
 class Link {
     public long dData;                  // data item
     public Link next;                   // next link in list

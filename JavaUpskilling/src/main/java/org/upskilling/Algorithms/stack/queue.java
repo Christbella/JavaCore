@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 4:
- *  queue.java
- *  demonstrates queue
- *  to compile this code: javac queue.java
- *  to run this program:  java QueueApp
- */
+
 class Queue {
     private int maxSize;
     private long[] queArray;

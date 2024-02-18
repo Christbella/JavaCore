@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 5:
- *  doublyLinked.java
- *  demonstrates doubly-linked list
- *  to compile this code: javac doublyLinked.java
- *  to run this program:  java DoublyLinkedApp
- */
+
 class Link {
     public long dData;                  // data item
     public Link next;                   // next link in list

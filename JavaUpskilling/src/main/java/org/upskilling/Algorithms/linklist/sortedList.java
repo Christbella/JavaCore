@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 5:
- *  sortedList.java
- *  demonstrates sorted list
- *  to compile this code: javac sortedList.java
- *  to run this program:  java SortedListApp
- */
+
 class Link {
     public long dData;                  // data item
     public Link next;                   // next link in list

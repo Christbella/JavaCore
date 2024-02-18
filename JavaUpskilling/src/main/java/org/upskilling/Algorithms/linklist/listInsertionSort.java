@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 5:
- *  listInsertionSort.java
- *  demonstrates sorted list used for sorting
- *  to compile this code: javac listInsertionSort.java
- *  to run this program:  java ListInsertionSortApp
- */
+
 class Link {
     public long dData;                  // data item
     public Link next;                   // next link in list

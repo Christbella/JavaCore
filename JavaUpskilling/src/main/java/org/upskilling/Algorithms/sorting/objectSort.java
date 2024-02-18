@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 3:
- *  objectSort.java
- *  demonstrates sorting objects (uses insertion sort)
- *  to compile this code: javac objectSort.java
- *  to run this program:  java ObjectSortApp
- */
+
 class Person {
     private String lastName;
     private String firstName;

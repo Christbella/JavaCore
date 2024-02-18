@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 3:
- *  selectSort.java
- *  demonstrates selection sort
- *  to compile this code: javac selectSort.java
- *  to run this program:  java SelectSortApp
- */
+
 class ArraySel {
     private long[] a;                 // ref to array a
     private int nElems;               // number of data items

@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 2:
- *  highArray.java
- *  demonstrates array class with high-level interface
- *  to compile this code: javac highArray.java
- *  to run this program:  java HighArrayApp
- */
+
 class HighArray {
     private long[] a;                 // ref to array a
     private int nElems;               // number of data items

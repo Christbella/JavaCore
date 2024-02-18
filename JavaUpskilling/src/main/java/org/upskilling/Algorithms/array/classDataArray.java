@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 2:
- *  classDataArray.java
- *  data items as class objects
- *  to compile this code: javac classDataArray.java
- *  to run this program:  java ClassDataApp
- */
+
 class Person {
     private String lastName;
     private String firstName;

@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 4:
- *  stack.java
- *  demonstrates stacks
- *  to compile this code: javac stack.java
- *  to run this program:  java StackApp
- */
+
 class StackX {
     private int maxSize;        // size of stack array
     private long[] stackArray;

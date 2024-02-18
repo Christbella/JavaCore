@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 5:
- *  linkList.java
- *  demonstrates linked list
- *  to compile this code: javac linkList.java
- *  to run this program:  java LinkListApp
- */
+
 class Link {
     public int iData;                   // data item
     public double dData;                // data item

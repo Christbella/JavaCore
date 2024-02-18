@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 2:
- *  orderedArray.java
- *  demonstrates ordered array class
- *  to compile this code: javac orderedAppArray.java
- *  to run this program:  java OrderedApp
- */
+
 class OrdArray {
     private long[] a;                 // ref to array a
     private int nElems;               // number of data items

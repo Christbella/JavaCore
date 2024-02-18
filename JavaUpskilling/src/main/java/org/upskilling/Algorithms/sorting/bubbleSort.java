@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 3:
- *  bubbleSort.java
- *  demonstrates bubble sort
- *  to compile this code: javac bubbleSort.java
- *  to run this program: java BubbleSortApp
- */
+
 class ArrayBub {
     private long[] a;                 // ref to array a
     private int nElems;               // number of data items

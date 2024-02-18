@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 4:
- *  brackets.java
- *  stacks used to check matching brackets
- *  to compile this code: javac brackets.java
- *  to run this program:  java BracketsApp
- */
+
 import java.io.*; // for I/O
 
 class StackX {

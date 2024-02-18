@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 5:
- *  firstLastList.java
- *  demonstrates list with first and last references
- *  to compile this code: javac firstLastList.java
- *  to run this program:  java FirstLastApp
- */
+
 class Link {
     public long dData;                 // data item
     public Link next;                  // next link in list

@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 4:
- *  reverse.java
- *  stack used to reverse a string
- *  to compile this code: javac reverse.java
- *  to run this program:  java ReverseApp
- */
+
 import java.io.*; // for I/O
 
 class StackX {

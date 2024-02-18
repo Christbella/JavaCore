@@ -1,11 +1,4 @@
-/**
- * Book: Data Structures and Algorithms in Java, by Robert LaFore
- * Chapter 3:
- *  timingSort.java
- *  timing of different types of sorting (my homework)
- *  to compile this code: javac timingSort.java
- *  to run this program:  java TimingSortApp
- */
+
 import java.util.*; 
 
 class Array {
